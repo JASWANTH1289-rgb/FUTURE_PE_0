@@ -1,0 +1,23 @@
+PROMPT VERSION 1:
+Generate website content for a salon.
+
+PROMPT VERSION 2:
+Generate homepage content for a salon including headline and CTA.
+
+PROMPT VERSION 3 (FINAL):
+Act as a professional website copywriter.
+
+Create high-converting homepage content for a local salon.
+
+Business Name: Glow Salon
+Location: Hyderabad
+Target Audience: Women aged 20–40
+
+Include:
+
+1. Headline
+2. Subheadline
+3. Services section
+4. CTA
+
+Tone: Friendly, premium, persuasive

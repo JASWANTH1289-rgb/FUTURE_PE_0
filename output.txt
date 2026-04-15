@@ -1,0 +1,11 @@
+Headline:
+Welcome to Glow Salon
+
+Subheadline:
+We provide beauty services for everyone.
+
+Services:
+Haircut, facial, makeup
+
+CTA:
+Contact us today

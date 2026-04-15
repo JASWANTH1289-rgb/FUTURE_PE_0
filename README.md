@@ -1,1 +1,106 @@
-# FUTURE_PE_0
+AI Website Copy Generator for Local Businesses
+
+📌 Problem Statement
+
+Local businesses struggle to create clear, persuasive, and conversion-focused website content. Most either write poor content or rely on expensive copywriters.
+
+🎯 Objective
+
+To build a prompt-based system that generates high-quality website copy (Homepage + Services + CTA) using AI.
+
+🛠 Tools Used
+
+- ChatGPT (Prompt Engineering)
+- Google Docs (Drafting)
+- GitHub (Documentation)
+
+🧠 Approach
+
+1. Defined target business (Salon)
+2. Designed structured prompts
+3. Generated multiple outputs
+4. Refined and improved copy
+5. Documented prompt logic and results
+
+---
+
+🧾 Prompt Used
+
+Act as a professional website copywriter.
+
+Create high-converting homepage content for a local salon.
+
+Business Name: Glow Salon
+Location: Hyderabad
+Target Audience: Women aged 20–40
+
+Include:
+
+1. Headline
+2. Subheadline
+3. Services section
+4. CTA
+
+Tone: Friendly, premium, persuasive
+
+---
+
+🖥 Generated Output (Refined Version)
+
+🏠 Homepage
+
+Headline:
+Experience Luxury Hair & Beauty Like Never Before
+
+Subheadline:
+At Glow Salon, we combine expert styling with premium care to give you the perfect look you deserve.
+
+Services:
+
+- Haircuts & Styling
+- Facials & Skincare
+- Bridal Makeup
+- Hair Coloring
+
+CTA:
+Book your appointment today and transform your look instantly.
+
+---
+
+🛠 Services Page
+
+Haircuts & Styling
+Professional stylists delivering modern and classic styles tailored to your personality.
+
+Facials & Skincare
+Rejuvenating treatments designed for glowing, healthy skin.
+
+Bridal Makeup
+Make your special day unforgettable with our expert bridal packages.
+
+Hair Coloring
+Premium coloring services with long-lasting shine and protection.
+
+---
+
+📢 Call-to-Action Section
+
+Ready for a stunning transformation?
+Book your appointment now and experience beauty redefined.
+
+---
+
+🔍 Key Learnings
+
+- Structured prompts give better outputs than generic prompts
+- Iteration improves quality significantly
+- Clear audience targeting improves relevance
+- CTA strength directly impacts conversion potential
+
+---
+
+🚀 Conclusion
+
+This project demonstrates how prompt engineering can be used to solve real-world business problems by generating professional, ready-to-use website content.
+
+---
